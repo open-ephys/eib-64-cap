@@ -7,4 +7,4 @@ sessions.
 
 ## Variants
 1. full: Cap has no cutout.
-2. ferrule-slot: Cap includes slot to fit fiber optic ferrule-slot.
+2. ferrule-slot: Cap includes slot to fit fiber optic ferrule.
