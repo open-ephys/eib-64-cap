@@ -16081,8 +16081,8 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 175.03137 141.856371)
-		(end 192.03137 151.206371)
+		(start 172.28137 141.856371)
+		(end 193.28137 151.206371)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -18490,8 +18490,8 @@
 			)
 		)
 	)
-	(gr_text "EIB-64 Cap\nRev. C\nJPN '25"
-		(at 183.03137 146.206371 0)
+	(gr_text "EIB-64 Cap\nRev. C\nOpen Ephys Inc."
+		(at 182.78137 146.531371 0)
 		(layer "F.SilkS")
 		(uuid "079d470d-a04e-4261-bb71-c9f3457da59d")
 		(effects
